@@ -6,7 +6,7 @@ Complying with ofgem law for live stream in UK, in short words for live stream T
 Remote Social media teams who needs to take some clips they will later publish on various social media platform.
 
 This project can't run locally becaouse it wont work with backend server to playback the stream which is being loaded as Hls video on demand, and need also backend server which handel the requests that deal with trimming a small clip and allowing user to download it or delete it later.
-It is considered as a single page app, you may review the code within this page: /src/views/Trimmy.vue
+It is considered as a single page app, maybe you find something useful within this page: /src/views/Trimmy.vue
 
 [Screenshot]
 
